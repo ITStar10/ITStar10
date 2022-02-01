@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/blockchainlover2019/blockchainlover2019/blob/main/logo.png" width="250" height="300" />
+<img align="right" alt="GIF" src="https://github.com/itstar10/itstar10/blob/main/logo.png" width="250" height="300" />
 
 ### Senior Solidity/Web3 Developer
 #### DeFi 
