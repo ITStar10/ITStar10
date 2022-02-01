@@ -37,6 +37,6 @@ Here are some ideas to get you started:
   
 ![](https://komarev.com/ghpvc/?username=blockchainlover2019&color=dc143c)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blockchainlover2019&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itstar10&show_icons=true)
   <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstar89&layout=compact&theme=monokai&count_private=true">
 </div>
