@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 #### NFT - NFT Minting Site, NFT Staking, NFT marketplace, MasterEdition & Editions of NFT.
 <br />
   
-![](https://komarev.com/ghpvc/?username=blockchainlover2019&color=dc143c)
+![](https://komarev.com/ghpvc/?username=itstar10&color=dc143c)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itstar10&show_icons=true)
-  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstar89&layout=compact&theme=monokai&count_private=true">
+  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstar10&layout=compact&theme=monokai&count_private=true">
 </div>
