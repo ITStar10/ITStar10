@@ -27,12 +27,14 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://github.com/itstar10/itstar10/blob/main/logo.png" width="250" height="300" />
 
 ### Senior Solidity/Web3 Developer
-#### DeFi 
-  * TokenSwap, 
-  * Yield Farming, 
-  * Staking
+  * Token Development (ERC20, ERC721, ERC1155, BEP20, BEP721, ...) 
+  * DAO (OHM) 
+  * Staking (Token Staking & NFT Staking)
+  * Yield Farming
+  * Swap (Pancake & Uniswap fork)
+  * DeFi 
+  * Cross Chain Bridge & Swap
 ##### 
-#### NFT - NFT Minting Site, NFT Staking, NFT marketplace, MasterEdition & Editions of NFT.
 <br />
   
 ![](https://komarev.com/ghpvc/?username=itstar10&color=dc143c)
