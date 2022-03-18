@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<div>
-<img align="right" alt="GIF" src="https://github.com/itstar10/itstar10/blob/main/logo.png" width="250" height="300" />
-
 ### Senior Solidity/Web3 Developer
   * Token Development (ERC20, ERC721, ERC1155, BEP20, BEP721, ...) 
   * DAO (OHM) 
