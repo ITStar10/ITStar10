@@ -1,4 +1,4 @@
-# Hi there, I'm ITStar10 👋
+# Hi there, I'm Alex 👋
 
 ### AI Engineer | Full-Stack Developer | Blockchain & Web3 Engineer
 
